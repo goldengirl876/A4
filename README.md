@@ -1,1 +1,13 @@
 # A4
+For this assignment, I examined the black and white racial disparity in US prison population rates. Given current social justice issues and historical context surrounding incarceration of black individuals, I thought this problem domain would be interesting to address. From what I already knew prior to completing this assignment, the US has had periods of increased incarceration that specifically disadvantaged people of color. My goal was to take a closer look at the data and identify potential trends that illustrate how this issue has developed in recent years. Before I narrowed my focus to the black and white racial disparity, I calculated figures (max/min/average prison population rate, temporal change in average prison population rate) for black, white, latinx, native, and total populations per state. Ultimately I settled on average prison population rate and temporal change in average prison population rate as my variables of interest.
+
+Here are some values that I calculated based on the county file provided by the Vera Institute:
+1. The maximum black jail population rate across all counties in the US was 21450. This figure is from the Duchesne County county of UT in 1999.
+
+2. The maximum white jail population rate across all counties in the US was 738.8749. This figure is from the East Carroll Parish county of LA in 2018. An important point about this calculation is that the maximum white jail population rate here is approximately 0.03 of the previously mentioned maximum black jail population rate. This indicates an immense racial inequality in the United States prison system. More information about these counties and reasons for incarceration is necessary to draw overarching conclusions, but it's still a remarkable disproportionality found in the data that may indicate flaws in US political and judicial structures.
+
+3. In 2018, the top 5 states by total average prison population rate were LA, UT, NM, MS, and KY (in descending order).
+
+4. In 2018, the bottom 5 states by total average prison population rate were MN, NJ, NH, ME, and IA (in descending order).
+
+5. Between 2008 to 2018, the change in total average prison population rates for LA, UT, NM, MS, and KY was -.7347919, -3.3656464, -2.1574258, -1.2452741, and -2.8414571 respectively. As seen in the variable comparison chart, the corresponding change in black average prison population rates for these states were all positive. The corresponding change in white average prison population rates for these states were all negative. Though the overall average prison population rates in these states seemed to fall, my analysis of the data exposes a significant racial disparity between black and white individuals' incarceration statistics.
